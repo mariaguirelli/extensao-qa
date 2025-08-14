@@ -21,7 +21,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O redirecionamento para o Dashboard deve ocorrer corretamente.  |
-
+https://jam.dev/c/375281a2-16c1-4bde-8442-f7b71e48913e
 ---
 
 ### Caso de Teste 02: Tentativa de login com senha incorreta.
@@ -68,3 +68,6 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
+
+
+
