@@ -21,6 +21,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O redirecionamento para o Dashboard deve ocorrer corretamente.  |
+Teste realizado e evidenciado
 https://jam.dev/c/375281a2-16c1-4bde-8442-f7b71e48913e
 ---
 
@@ -45,7 +46,8 @@ https://jam.dev/c/375281a2-16c1-4bde-8442-f7b71e48913e
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A mensagem de erro \"Invalid credentials\" deve ser exibida.    |
-
+Teste realizado e evidenciado
+https://jam.dev/c/87313db8-948b-4188-9aba-a96908b1cfc7
 ---
 
 ### Caso de Teste 03: Tentativa de login com campos em branco.
@@ -68,6 +70,7 @@ https://jam.dev/c/375281a2-16c1-4bde-8442-f7b71e48913e
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
-
+Teste realizado e evidenciado
+https://jam.dev/c/71554a6c-86fd-478d-92fd-18fc40a2ba9c
 
 
