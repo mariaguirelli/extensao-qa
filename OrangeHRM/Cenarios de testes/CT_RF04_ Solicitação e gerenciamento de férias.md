@@ -21,7 +21,9 @@
 
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
-| A solicitação deve aparecer listada em \"My Leave\".            |
+| A solicitação deve aparecer listada em \"My Leave\".   |
+  Teste evidenciado e aprovado.
+  https://jam.dev/c/4ed24e91-fc30-42d0-809e-17b1999dac72
 
 ---
 
@@ -47,7 +49,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
-
+Teste evidenciado e aprovado.
+https://jam.dev/c/0188a077-d01a-41c8-932d-8bcde6a904e5
 ---
 
 ### Caso de Teste 03: Visualizar status das solicitações de férias.
@@ -69,3 +72,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+Teste evidenciado e aprovado
+https://jam.dev/c/3359413a-0800-4602-bc6d-282f4f3b5a1f
