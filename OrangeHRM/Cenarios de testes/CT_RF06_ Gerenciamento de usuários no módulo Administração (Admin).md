@@ -21,7 +21,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O usuário cadastrado deve aparecer na lista de usuários ativos. |
-
+Teste evidenciado e aprovado 
+https://jam.dev/c/901e8676-3ef9-4dd0-b518-0fe8b07c9108
 ---
 
 ### Caso de Teste 02: Tentativa de adicionar usuário com nome de usuário já existente.
