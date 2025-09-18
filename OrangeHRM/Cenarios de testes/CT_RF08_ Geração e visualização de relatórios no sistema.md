@@ -20,7 +20,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O relatório deve apresentar os dados corretos conforme os filtros aplicados. |
-
+Teste evidenciado e aprovado
+https://jam.dev/c/1a8e833a-e210-472a-8d10-b6f8e433aaa9
 ---
 
 ### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios.
@@ -43,7 +44,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
-
+Teste evidenciado e reprovado
+https://jam.dev/c/3cb592c3-f045-4fba-a68f-2006f0e051c7
 ---
 
 ### Caso de Teste 03: Exportar relatório gerado em PDF.
@@ -65,3 +67,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O download do arquivo PDF deve ocorrer com os dados exibidos na tela. |
+Teste evidenciado e reprovado pois não tem opção de gerar PDF.
+https://jam.dev/c/14ff3774-d043-4f75-a6dd-284da22a4f91
