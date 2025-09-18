@@ -46,7 +46,8 @@ https://jam.dev/c/901e8676-3ef9-4dd0-b518-0fe8b07c9108
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o cadastro e exibir mensagem de duplicidade. |
-
+Teste evidenciado e aprovado
+https://jam.dev/c/34f113c4-d304-448e-b784-6280de20513c
 ---
 
 ### Caso de Teste 03: Filtrar usuários por status "Enabled".
@@ -69,3 +70,5 @@ https://jam.dev/c/901e8676-3ef9-4dd0-b518-0fe8b07c9108
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A lista deve conter apenas usuários com status "Enabled".       |
+Teste evidenciado e aprovado
+https://jam.dev/c/89c2946e-74bc-4af7-bc28-bb5f0163fb9c
