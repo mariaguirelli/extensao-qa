@@ -20,7 +20,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve confirmar o registro com uma mensagem e salvar o horário. |
-
+Teste evidenciado e aprovado
+https://jam.dev/c/fdfd3095-d7cc-4d69-b7f3-547d0b227996
 ---
 
 ### Caso de Teste 02: Tentar marcar ponto sem horário permitido ou fora do expediente.
@@ -42,7 +43,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o registro e apresentar mensagem adequada. |
-
+Teste evidenciado e aprovado
+https://jam.dev/c/f872eb83-2c50-4159-8606-a5cf8dcb387c
 ---
 
 ### Caso de Teste 03: Consultar registro de ponto anterior.
@@ -64,3 +66,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
+Teste evidenciado e aprovado
+https://jam.dev/c/fdceb1fd-83e1-4516-a779-38812ff35ee7
