@@ -20,7 +20,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O nome, cargo e localização do colaborador devem ser exibidos corretamente. |
-
+Teste evidenciado e aprovado
+https://jam.dev/c/5b6f67b0-f6ed-4513-b12e-e520d5fec0d9
 ---
 
 ### Caso de Teste 02: Buscar colaborador inexistente.
@@ -43,7 +44,8 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir claramente que não há registros encontrados. |
-
+Teste evidenciado e aprovado
+https://jam.dev/c/89c39c7f-a748-4bca-90c9-4522cda27392
 ---
 
 ### Caso de Teste 03: Aplicar filtro por cargo (Job Title).
@@ -66,3 +68,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O filtro deve funcionar corretamente e retornar apenas resultados válidos. |
+Teste evidenciado e aprovado
+https://jam.dev/c/7665c365-7d2a-4915-81ad-d1bcbf3eff28
