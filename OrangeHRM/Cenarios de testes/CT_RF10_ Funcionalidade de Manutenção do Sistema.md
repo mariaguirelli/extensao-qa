@@ -20,7 +20,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de manutenção e bloquear o acesso às funcionalidades. |
-
+Teste evdenciado e reprovado, não tem a opção de colocar o sistema em manutenção.
 ---
 
 ### Caso de Teste 02: Acessar o sistema após término da manutenção.
@@ -43,7 +43,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O usuário deve ser capaz de acessar o sistema normalmente.      |
-
+Teste evdenciado e reprovado, não tem a opção de colocar o sistema em manutenção.
 ---
 
 ### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada.
@@ -66,3 +66,4 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de falha e manutenção, informando que o sistema está indisponível. |
+Teste evdenciado e reprovado, não tem a opção de colocar o sistema em manutenção.
